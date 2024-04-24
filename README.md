@@ -6,7 +6,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 # Contributors
 - @Lgwen101 (Data Extraction, Data Visualisation, Data Cleaning, EDA)
 - @Yeet94 (Data Cleaning, Logistic Regression, Decision Tree)
-- @Skai (Random Forest, SVC with RBF kernel, SVM classifier with Sigmoid kernel)
+- @skai8468 (Random Forest, SVC with RBF kernel, SVM classifier with Sigmoid kernel)
 
 
 # Problem Definition
